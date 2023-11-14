@@ -1,1 +1,1 @@
-# IBM-Data-Analyst-Capstone-Project-Week-2-Hands-on-
+# IBM-Data-Analyst-Capstone-Project
